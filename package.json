@@ -1,0 +1,21 @@
+{
+  "name": "fast-crud-vue3.27",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fast-crud/fast-crud": "^1.2.3",
+    "@fast-crud/ui-antdv": "^1.2.3",
+    "ant-design-vue": "^3.2.10",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "vite": "^3.0.0"
+  }
+}
